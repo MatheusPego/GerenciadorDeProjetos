@@ -1,5 +1,3 @@
-//Banco de Dados MySQL:
-
 CREATE TABLE users (
     id_user VARCHAR(36) PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
