@@ -36,7 +36,7 @@ O sistema é composto por algumas classes principais:
 5. Execute a classe principal (`Application.java`).
 6. Siga as instruções no terminal para criar usuários, cadastrar obras ou fazer solicitações.
 
-## Observações para estudantes
+## Observações
 
 - O sistema não usa banco de dados real. Todas as informações existem apenas enquanto o programa está rodando. Ao fechar, tudo é apagado.
 - Os comentários no código foram feitos de forma clara e direta, buscando facilitar a compreensão dos conceitos aplicados.
